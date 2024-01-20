@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1dP_oE7letV0hJpgfl1ec3nTBrleHWD56/view?usp=sharing](https://drive.google.com/file/d/1JYejTG5nf6FoEsqI6DTTyWKz_oiIXDUK/view?usp=sharing)
 
-- ⚡ Fun fact **My humor is as sharp as my debugging skills! I can turn a bug into a hilarious comedy act that'll have you rolling on the floor laughing.**
+- ⚡ Fun fact **My humor is as sharp as my debugging skills!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
